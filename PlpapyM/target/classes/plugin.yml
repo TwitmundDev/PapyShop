@@ -1,0 +1,9 @@
+name: plPapy
+version: 1.0-SNAPSHOT
+main: fr.twitmund.main
+api-version: 1.16
+authors: [ Twitmund_le_bg ]
+description: pl shop papy
+commands:
+  shop:
+    description: Papy Shop
